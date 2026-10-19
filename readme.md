@@ -6,4 +6,4 @@ Kasus pilihan pertama : 4
 Kasus pilihan kedua : 5
 
 untuk menjalankan program dapat di luar file yaitu
-kasus_4_klinik.py dan kasus_5_cafe
+kasus_4_klinik.py dan kasus_1_laundry
