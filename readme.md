@@ -7,7 +7,7 @@ Waktu mulai        : 17:58:00 <br/>
 Waktu selesai      : 22:25:00 <br/>
 Durasi stopwatch   : 04:25:04 <br/>
 
-Rekaman layar      : sedang upload
+Rekaman layar      : https://www.youtube.com/watch?v=kqw5_87L-4A
 <br/>
 
 cara menjalankan program : <br/> 
